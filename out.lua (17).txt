@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://vss.pandauth.com/kv/5c45a824dbdd4c0f"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pruzgar242-rgb/Wyn/refs/heads/main/RuzHub_v7_final%20(3)_obfuscated%20(1).lua"))()
