@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/pruzgar242-rgb/RuzUpdate/refs/heads/main/ruz-obfuscated%20(1).lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pruzgar242-rgb/Ayo/refs/heads/main/obfuscated%20(1).lua%20(4).txt"))()
