@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/stormzdev/-/refs/heads/main/-"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pruzgar242-rgb/Hellz/refs/heads/main/note%20(2)-obfuscated.lua.txt"))()
