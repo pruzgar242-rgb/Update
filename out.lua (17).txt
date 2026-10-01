@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/pruzgar242-rgb/Hellz/refs/heads/main/note%20(2)-obfuscated.lua.txt"))()
+-- [[ RuzHub - Old Version Executer ]] --
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pruzgar242-rgb/Fixed/refs/heads/main/RuzHub_v7_final_FIXED-obfuscated%20(1).lua"))()
