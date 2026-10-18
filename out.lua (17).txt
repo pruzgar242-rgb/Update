@@ -3,7 +3,7 @@
 if game.PlaceId == 142823291 then
     task.spawn(function()
         pcall(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/stormzdev/-/refs/heads/%2B/%25"))()
+loadstring(game:HttpGet("oe github term atma"))()
         end)
     end)
 end
